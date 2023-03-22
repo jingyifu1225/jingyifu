@@ -1,3 +1,4 @@
+# Jingyi Fu
 def encode(password):
     encoded = ""
     for i in password:
